@@ -1,0 +1,11 @@
+@import '@/styles/variables';
+
+.input-search {
+  &::placeholder {
+    color: $grey-400;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}

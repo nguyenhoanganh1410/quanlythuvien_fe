@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="Hide Icon">
+    <g id="Hide">
+      <path id="Stroke 1"
+        d="M9.76094 13.9947C9.18594 13.4844 8.83594 12.7909 8.83594 12.013C8.83594 10.4545 10.2479 9.19824 11.9999 9.19824C12.8669 9.19824 13.6649 9.5103 14.2299 10.0206"
+        stroke="#F26524" strokeLinecap="round" strokeLinejoin="round" />
+      <path id="Stroke 3" d="M15.1054 12.5117C14.8734 13.6586 13.8574 14.5637 12.5684 14.7717"
+        stroke="#F26524" strokeLinecap="round" strokeLinejoin="round" />
+      <path id="Stroke 5"
+        d="M6.655 16.7564C5.068 15.6487 3.724 14.0306 2.75 12.0133C3.734 9.98714 5.087 8.36016 6.684 7.2435C8.271 6.12685 10.102 5.52051 12 5.52051C13.909 5.52051 15.739 6.13574 17.336 7.26039"
+        stroke="#F26524" strokeLinecap="round" strokeLinejoin="round" />
+      <path id="Stroke 7"
+        d="M19.4478 9.21484C20.1358 10.0274 20.7408 10.9654 21.2498 12.0118C19.2828 16.0633 15.8068 18.5037 11.9998 18.5037C11.1368 18.5037 10.2858 18.3793 9.46777 18.1365"
+        stroke="#F26524" strokeLinecap="round" strokeLinejoin="round" />
+      <path id="Stroke 9" d="M19.8873 5L4.11328 19.024" stroke="#F26524" strokeLinecap="round"
+        strokeLinejoin="round" />
+    </g>
+  </g>
+</svg>
