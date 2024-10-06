@@ -9,7 +9,7 @@ interface IProps {
 
 const TableComponent = ({ headerTable, tableTitle }: IProps) => {
   return (
-    <div className="max-h-[45vh] overflow-x-auto rounded-lg border bg-white pt-4 shadow-lg">
+    <div className="max-h-[45vh] overflow-x-auto rounded-lg border bg-white pt-4 shadow">
       <div className="flex items-center justify-between px-5 py-4">
         <h2 className="font-bold text-orange-500">{tableTitle}</h2>
         <p className="text-xs text-orange-500 cursor-pointer hover:underline">Xem tất cả</p>
@@ -29,7 +29,7 @@ const TableComponent = ({ headerTable, tableTitle }: IProps) => {
           </thead>
           <tbody>
             <tr className="border-b bg-white dark:border-gray-700 dark:bg-gray-800">
-              <th scope="row" className="whitespace-nowrap px-6 py-4 font-medium text-gray-900 dark:text-white">
+              <th scope="row" className="whitespace-nowrap hover:underline cursor-pointer px-6 py-4 font-medium text-gray-900">
                 #121345
               </th>
               <td className="px-6 py-4">423423</td>

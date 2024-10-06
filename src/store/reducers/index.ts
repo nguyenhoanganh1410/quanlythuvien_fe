@@ -12,6 +12,7 @@ import homeValuationSlice from '@/features/homeValuation/homeValuationSlice';
 import supportCenterSlice from '@/features/supportCenter/supportCenterSlice';
 import articlesSlice from '@/features/articles/articlesSlice';
 import seatSlice from '@/features/seat/seatSlice';
+import booksSlice from '@/features/books/booksSlice';
 
 const rootReducer = combineReducers({
   userStore: userSlice,
@@ -27,6 +28,7 @@ const rootReducer = combineReducers({
   supportCenterStore: supportCenterSlice,
   articlesStore: articlesSlice,
   seatStore: seatSlice,
+  bookStore: booksSlice
 });
 
 export default rootReducer;

@@ -28,7 +28,7 @@ const initialCards = [
     progressColor: '#FAC76F',
   },
   {
-    id: 'card_04',
+    id: 'card_044',
     value: `20`,
     title: 'Tổng số thành viên',
     progress: 45,
